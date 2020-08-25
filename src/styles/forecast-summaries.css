@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&family=Open+Sans&display=swap'); 
+
+.forecast-summaries {
+    font-family: 'Lato';
+    font-weight: light;
+    font-size: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #808080;
+    display: flex;
+    justify-content: space-between;
+    }
+    
+    
+
